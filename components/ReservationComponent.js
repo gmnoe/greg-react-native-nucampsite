@@ -97,7 +97,6 @@ class Reservation extends Component {
                     />
                 </View>
                 <Modal
-                
                     animationType={'slide'}
                     transparent={false}
                     visible={this.state.showModal}
